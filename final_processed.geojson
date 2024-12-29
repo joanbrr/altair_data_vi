@@ -4,9 +4,8 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "Polygon",
         "coordinates": [
-          [
             [
               [
                 -80.519964,
@@ -1174,7 +1173,6 @@
               ]
             ]
           ]
-        ]
       },
       "Region": "Northeast"
     }
